@@ -8,7 +8,7 @@ Refile's out-of-the-box backend `Refile::Backend::FileSystem` stores all files w
 
 Add `refile-filesystem-hashed` to your Gemfile.
 
-    gem 'refile-filesystem-hashed', '~> 1.0.0', require: 'refile/backend/file_system_hashed'
+    gem 'refile-filesystem-hashed', '~> 1.0.1', require: 'refile/backend/file_system_hashed'
 
 Replace `Refile::Backend::FileSystem` with `Refile::Backend::FileSystemHashed`.
 
