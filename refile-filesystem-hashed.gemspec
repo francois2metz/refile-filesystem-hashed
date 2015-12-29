@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Tim Bleck']
   spec.email         = ['tim.bleck@webedia-group.com']
   spec.summary       = %q{Refile backend that's based on `Refile::Backend::FileSystem` and stores files in sub-directories based on the given file id instead of storing all files on one directory.}
-  spec.homepage      = 'https://github.com/moviepilot-de/refile-filesystem-hashed'
+  spec.homepage      = 'https://github.com/francois2metz/refile-filesystem-hashed'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
